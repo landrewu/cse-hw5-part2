@@ -19,7 +19,7 @@ $(function() {
 				img.src = "images/partly-cloudy.png";
 			break;
 
-			case "Mostly Cloudy":
+			case "Partly Cloudy":
 				img.src = "images/mostly-cloudy.png";
 			break;
 
